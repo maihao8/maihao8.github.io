@@ -1,0 +1,5 @@
+description: 这类网站本质上是一个账号资源交易平台，主要出售各类社交媒体账号，比如 Facebook、Instagram、Twitter、Gmail以及AI账号等
+plugins:
+  - jekyll-sitemap
+
+theme: jekyll-theme-cayman
