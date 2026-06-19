@@ -1,0 +1,36 @@
+# Top Menu
+topmenu:
+
+- title: 海外账号
+  url: ""
+
+- title: Twitter账号
+  url: "twitter"
+
+- title: Facebook账号
+  url: "facebook"
+
+- title: Instagram账号
+  url: "instagram"
+
+- title: Telegram账号
+  url: "telegram"
+
+- title: TikTok账号
+  url: "tiktok"
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
+
+- title: Download
+  url: https://maihao8.github.io/
+  external: true
